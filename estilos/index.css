@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
+nav {
+    background-color: black;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+/* .navbar-brand {
+    color: white;
+} */
+
+.nav-link:hover {
+    color: grey;
+    font-weight: 700;
+}
+
+.carrito {
+    position: absolute;
+    right: 0;
+}
+
+/* -------portada------ */
+.carrusel {
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.imgCarrusel {
+    height: 500px;
+}
+
+.textoIntro {
+    text-align: center;
+}
+
+.intro {
+    width: 70%;
+    margin: 0 auto;
+    /* display: flex;
+    align-items: center; */
+    margin-bottom: 50px;
+}
+
+.tituloIntro {
+    text-align: center;
+    font-weight: 900;
+    color: black;
+    margin: 30px;
+}
+
+.listaIntro {
+    list-style-image: url("../images/iconX.png");
+
+}
+
+.itemIntro {
+    margin: 30px;
+}
+
+.contenedorCards{
+    margin: 20px;
+}
+
+.prueba{
+    border-radius: 0;
+    text-align: center;
+}
+.btnComprar {
+    border-radius: 0;
+    background-color: black;
+}
+.btnComprar:hover{
+    border: 2px solid black;
+    color: black;
+    background: white;
+}
+
+#nuestrosProductos {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+#chango {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.carrito {
+    width: 90%;
+    margin-right: 40px;
+}
+
+.btnMas {
+    background-color: none;
+}
+
+.btnMenos {
+    background-color: none;
+}
+
+.btnVaciar {
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    border-radius: 0;
+}
+
+.btnVaciar:hover {
+    border: 1px solid rgb(160, 1, 1);
+    background-color: rgb(250, 163, 163);
+    color: rgb(160, 1, 1);
+}
+
+footer {
+    height: 200px;
+    background-color: black;
+}
+
+.flechaUp {
+    width: 50px;
+    margin: 5px;
+}
+
+.iconoup {
+    width: 40px;
+}

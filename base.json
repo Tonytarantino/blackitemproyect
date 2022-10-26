@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1000,
+      "id": 1,
+      "title": "Anteojos Milena",
+      "thumbnailUrl": "https://img.freepik.com/premium-vector/black-modern-sunglasses-with-dark-glass-white-background_47243-1613.jpg?w=2000"
+    },
+    {
+      "precio": 1500,
+      "id": 2,
+      "title": "Chocker love",
+      "thumbnailUrl": "./images/chocker.jpg"
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "title": "Espejo",
+      "thumbnailUrl": "./images/espejo.jpg"
+    },
+    {
+      "precio": 500,
+      "id": 4,
+      "title": "Esposas",
+      "thumbnailUrl": "./images/esposas.jpg"
+    },
+    {
+      "precio": 1000,
+      "id": 5,
+      "title": "Guantes Madame",
+      "thumbnailUrl": "./images/guantes.jpg"
+    },
+    {
+      "precio": 800,
+      "id": 6,
+      "title": "Llavero BOSS",
+      "thumbnailUrl": "./images/llaveroboss.jpg"
+    }
+  ]
